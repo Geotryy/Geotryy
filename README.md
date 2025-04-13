@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedora de software apaixonada por criar soluções criativas!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F27BB1&center=true&vCenter=true&width=600&lines=Desenvolvedora+de+software+%F0%9F%92%BB;Apaixonada+por+Kotlin%2C+Python+e+SQL;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+%F0%9F%93%96;Projetos+com+prop%C3%B3sito+e+estilo!+%F0%9F%92%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F27BB1&center=true&vCenter=true&width=650&lines=Desenvolvedora+de+software+%F0%9F%92%BB;Apaixonada+por+Kotlin%2C+Python+e+SQL;Cursando+Análise+e+Desenvolvimento+de+Sistemas+%F0%9F%93%96;Projetos+com+prop%C3%B3sito+e+estilo!+%F0%9F%92%95" alt="Typing SVG" />
 </p>
 
 ---
