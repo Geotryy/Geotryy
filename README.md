@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedora de software apaixonada por criar soluções criativas!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F27BB1&center=true&vCenter=true&width=435&lines=Desenvolvedora+de+software+%F0%9F%92%BB;Apaixonada+por+Flutter%2C+Python+e+SQL;Estudando+Ciência+de+Dados+%F0%9F%94%8D;Projetos+com+propósito+e+estilo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F27BB1&center=true&vCenter=true&width=435&lines=Desenvolvedora+de+software+%F0%9F%92%BB;Apaixonada+por+Flutter%2C+Python+e+SQL;Estudando+Análise+e+Desenvolvimento+de+Sistemas%F0%9F%94%8D;Projetos+com+propósito+e+estilo!" alt="Typing SVG" />
 </p>
 
 ---
@@ -61,5 +61,6 @@
 
 <p align="center">Obrigada por visitar meu perfil! 💖</p>
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/13XW0OV1Jzrb0E/giphy.gif" width="150"/>
 </p>
+
