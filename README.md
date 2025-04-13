@@ -8,7 +8,7 @@
 ---
 
 ### 🌸 Sobre mim
-- 👩‍💻 Atualmente aprendendo **Flutter, Python e PL/SQL**
+- 👩‍💻 Atualmente me aperfeiçoando em **Flutter, Python e PL/SQL**
 - 🚀 Já desenvolvi apps como:  
   • **LifeXP** – gamificação ambiental com OpenWeather API (Kotlin)  
   • **Cake & Co.** – e-commerce fofo de confeitaria (Flutter)  
@@ -52,11 +52,10 @@
 
 | Projeto       | Descrição |
 |---------------|-----------|
-| [LifeXP](https://github.com/seu-usuario/LifeXP) | App com gamificação e sustentabilidade (Kotlin + API) |
-| [Cake & Co.](https://github.com/seu-usuario/CakeCo) | E-commerce de confeitaria com foco estético (Flutter) |
-| [Danzify](https://github.com/seu-usuario/Danzify) | Plataforma de dança com Firebase (Flutter) |
+| [LifeXP](https://github.com/Geotryy/LifeXP) | App com gamificação e sustentabilidade (Kotlin + API) |
+| [Cake & Co.](https://github.com/Geotryy/Cake-Co) | E-commerce de confeitaria com foco estético (Flutter) |
+| [Danzify](https://github.com/Geotryy/Danzify) | Plataforma de dança com Firebase (Flutter) |
 | [SimpFin](https://github.com/seu-usuario/SimpFin) | Sistema de gestão financeira (JSP + Oracle) |
-| [Minha Geladeira](https://github.com/seu-usuario/MinhaGeladeira) | App para controle de alimentos (Flutter) |
 
 ---
 
