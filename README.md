@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedora de software apaixonada por criar soluções criativas!</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F27BB1&center=true&vCenter=true&width=435&lines=Desenvolvedora+Flutter+%F0%9F%A6%84;Apaixonada+por+Kotlin%2C+Python+e+SQL;Estudando+Ciência+de+Dados+%F0%9F%94%8D;Projetos+com+propósito+e+estilo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F27BB1&center=true&vCenter=true&width=435&lines=Desenvolvedora+de+software+%F0%9F%92%BB;Apaixonada+por+Flutter%2C+Python+e+SQL;Estudando+Ciência+de+Dados+%F0%9F%94%8D;Projetos+com+propósito+e+estilo!" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,8 +35,8 @@
 ### 📈 Meus stats no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geosdias&show_icons=true&theme=rose_pine&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=geosdias&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Geotryy&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Geotryy&theme=rose_pine&hide_border=true" />
 </p>
 
 ---
