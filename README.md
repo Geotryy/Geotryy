@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F27BB1&center=true&vCenter=true&width=650&lines=Desenvolvedora+de+software+%F0%9F%92%BB;Apaixonada+por+Kotlin%2C+Python+e+SQL;Cursando+Análise+e+Desenvolvimento+de+Sistemas+%F0%9F%93%96;Projetos+com+prop%C3%B3sito+e+estilo!+%F0%9F%92%95" alt="Typing SVG" />
 </p>
 
+
 ---
 
 ### 🌸 Sobre mim
@@ -61,6 +62,6 @@
 
 <p align="center">Obrigada por visitar meu perfil! 💖</p>
 <p align="center">
-  <img src="https://media.giphy.com/media/13XW0OV1Jzrb0E/giphy.gif" width="150"/>
+<img src="https://media.giphy.com/media/13XW0OV1Jzrb0E/giphy.gif" width="150" />
 </p>
 
