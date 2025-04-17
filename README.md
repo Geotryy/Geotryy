@@ -62,6 +62,6 @@
 
 <p align="center">Obrigada por visitar meu perfil! 💖</p>
 <p align="center">
-<img src="https://media.giphy.com/media/13XW0OV1Jzrb0E/giphy.gif" width="150" />
+<img src="https://i.giphy.com/media/13XW0OV1Jzrb0E/giphy.gif" width="150" />
 </p>
 
