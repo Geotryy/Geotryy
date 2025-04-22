@@ -2,16 +2,17 @@
 <h3 align="center">Desenvolvedora de software apaixonada por criar soluções com propósito 💡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F27BB1&center=true&vCenter=true&width=700&lines=Desenvolvedora+de+software+%F0%9F%92%BB;Apaixonada+por+Kotlin%2C+Python+e+SQL;Estudante+de+ADS+%F0%9F%93%96;Projetos+com+prop%C3%B3sito+e+estilo+%F0%9F%92%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F27BB1&center=true&vCenter=true&width=700&lines=Flutter%2C+Python+e+Kotlin+s%C3%A3o+minha+paix%C3%A3o!;Desenvolvedora+de+software+%F0%9F%92%BB;Projetos+com+prop%C3%B3sito+e+estilo+%F0%9F%92%95" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌸 Sobre mim
 - 👩‍💻 Atualmente focada em **Flutter, Python e PL/SQL**
+- 💖 Apaixonada por **Flutter, Python e Kotlin**
 - 🚀 Alguns projetos que já desenvolvi:
   - **LifeXP** – gamificação ambiental com OpenWeather API *(Kotlin)*
-  - **Cake & Co.** – e-commerce fofo de confeitaria *(Flutter)*
+  - **Cake & Co.** – e-commerce de confeitaria *(Flutter)*
   - **Danzify** – streaming de dança com backend no Firebase *(Flutter)*
   - **SimpFin** – sistema de gestão financeira *(JSP + Oracle)*
   - **Minha Geladeira** – controle de alimentos com alertas de validade *(Flutter + SQLite)*
@@ -62,7 +63,7 @@
 ---
 
 <p align="center">
-  Obrigada por visitar meu perfil 💖
+  Obrigada por visitar meu perfil!
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="150" alt="Obrigada!" />
