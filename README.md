@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=200&section=header&text=Geovanna%20Dias&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedora%20de%20Software%20%C2%B7%20Back-end%20%26%20IA&descSize=18&descAlignY=60" width="100%"/>
+<h1>Geovanna Dias</h1>
+<h3>Desenvolvedora de Software · Back-end & IA</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=620&lines=Microsservi%C3%A7os%2C+APIs+RESTful+e+integra%C3%A7%C3%B5es;Solu%C3%A7%C3%B5es+com+IA+e+RAG;Do+planejamento+ao+deploy+em+produ%C3%A7%C3%A3o" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=620&lines=Microsservi%C3%A7os%2C+APIs+RESTful+e+integra%C3%A7%C3%B5es;Assistentes+de+IA+e+engenharia+de+prompt;Do+planejamento+ao+deploy+em+produ%C3%A7%C3%A3o" alt="Typing SVG" />
 
 </div>
 
@@ -17,8 +18,9 @@ Construo microsserviços, APIs RESTful e soluções baseadas em IA — do planej
 
 <br/>
 
-- **APIs RESTful** e integrações entre sistemas — webhooks, mensageria, WebSockets
-- **Assistentes inteligentes com RAG** (Retrieval-Augmented Generation) e automações com n8n
+- **APIs RESTful** e integrações entre sistemas — webhooks, mensageria
+- **Assistentes de IA** para consultoria, ensino e vendas — construção e treinamento via engenharia de prompt
+- Automação de processos e orquestração de fluxos com **n8n**
 - Modelagem e otimização de **PostgreSQL** · queries SQL para análise e auditoria de dados
 - Deploy e **observabilidade em AWS** (Lambda, SQS) com OpenTelemetry e SigNoz
 - Documentação técnica e arquitetural, do design ao acompanhamento pós-deploy
